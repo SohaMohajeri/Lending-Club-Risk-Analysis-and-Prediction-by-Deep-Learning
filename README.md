@@ -1,6 +1,6 @@
 # Lending Club Risk Analysis and Prediction
 
-![3](https://user-images.githubusercontent.com/69224996/96539578-41780380-1250-11eb-9347-9c42cfe0eb27.jpg)
+![Webp net-resizeimage](https://user-images.githubusercontent.com/69224996/96539711-9582e800-1250-11eb-88db-23c88e47db01.jpg)
 
 **LendingClub is a US peer-to-peer lending company, headquartered in San Francisco, California. It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market. In Lending Club, borrowers with higher credit scores (more trustworthy and less risky) get lower interest rates for their loans while borrowers with lower credit scores (less trustworthy and more risky) get higher rates. From the point of view of the investors, the loans with higher interest rates are more attractive because they provide higher return on investment (ROI). However, they pose the risks of not being returned at all (defaulted). Therefore, machine learning models that can predict which of the high interest loans are more likely to be returned will bring added value by minimizing the associated risks.**
 
