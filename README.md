@@ -17,6 +17,5 @@ LendingClub is a US peer-to-peer lending company, headquartered in San Francisco
 In this notebook, we use a subset of the LendingClub DataSet obtained from Kaggle and perform exploratory data analysis. 
 Afterwards, we build a model using deep learning to predict the risks of loan investments by TensorFlow library. Therefore, when we get a new potential customer in the future we can assess whether they are likely to pay back the loan.
 
-
 </div>
 
