@@ -18,4 +18,3 @@ In this notebook, we use a subset of the LendingClub DataSet obtained from Kaggl
 Afterwards, we build a model using deep learning to predict the risks of loan investments by TensorFlow library. Therefore, when we get a new potential customer in the future we can assess whether they are likely to pay back the loan.
 
 </div>
-
